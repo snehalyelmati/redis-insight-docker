@@ -1,0 +1,1 @@
+# Redis Insight Docker image
